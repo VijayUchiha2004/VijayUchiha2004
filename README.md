@@ -56,6 +56,6 @@ Next: a game in C++.
 
 ## `> CONTINUE?`
 
-[email](mailto:YOUR_EMAIL_HERE) / [linkedin](https://www.linkedin.com/in/YOUR_LINKEDIN_HERE)
+[email](mailto:mvijaysumanth@gmail.com) / [linkedin](https://www.linkedin.com/in/mvijay-sumanth/)
 
 <sub>insert coin to continue</sub>
